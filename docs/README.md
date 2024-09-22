@@ -39,4 +39,4 @@ deriv = mathio.derivative(func, 3)  # 6.0
 integral = mathio.definite_integral(func, 0, 2)  # 2.66667
 ```
 
-For detailed usage, see the [documentation](docs/usage.md).
+For detailed usage, see the [documentation](usage.md).
