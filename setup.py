@@ -9,9 +9,9 @@ setup(
     ],
     description='A comprehensive mathematical library',
     long_description=open('README.md').read(),
-    long_description_content_type='text/markdown',
-    author='Your Name',
-    author_email='your.email@example.com',
+    long_description_content_type='markdown',
+    author='Vi',
+    author_email='kunykunykuny6@gmail.com',
     url='https://github.com/viiiiiiiiiiiiiiiiiiii/Mathio',
     classifiers=[
         'Programming Language :: Python :: 3',
